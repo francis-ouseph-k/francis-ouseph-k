@@ -1,16 +1,28 @@
-## Hi there 👋
+# Francis Ouseph
 
-<!--
-**francis-ouseph-k/francis-ouseph-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&gt; Software Architect | 24+ Years | Enterprise AI · RAG · LLM Engineering · Cloud-Native
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Project
+**[Querent](https://github.com/francis-ouseph-k/querent)** — RAG-powered AI query engine with vector search and cloud-native architecture.
+
+---
+
+## 🛠️ Core Competencies
+- **AI/ML:** RAG pipelines, LLM integration, embedding models, vector databases
+- **Backend:** Python, FastAPI, async architecture, microservices
+- **Data:** PostgreSQL, pgvector, Redis, document processing
+- **Cloud:** AWS/GCP, Docker, Kubernetes, CI/CD
+- **Observability:** Structured logging, metrics, tracing
+
+---
+
+## 💼 Experience
+Oracle · Dell · IBM · AT&T · Brillio · Sapient · Christ University
+
+---
+
+## 📫 Connect
+- [LinkedIn](your-linkedin-url)
+- francis.ouseph@email.com
